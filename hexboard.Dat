@@ -1,0 +1,63 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MainBoard.PrjPcb|ReportField=ProjectFullPath~D:\Projekty w realizacji\Home automation\ROUND_PANEL\HARDWARE\MAINBOARD\MainBoard.PrjPcb|ReportField=Title~Bill of Materials For Project [MainBoard.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~143|ReportField=ReportTime~13:21:46|ReportField=ReportDate~24.06.2018|ReportField=ReportDateTime~24.06.2018 13:21:46|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~24.06.2018|ReportField=CurrentTime~13:21:45|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\Projekty w realizacji\Home automation\ROUND_PANEL\HARDWARE\MAINBOARD\Accel.SchDoc|ReportField=DocumentName~Accel.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~24.06.2018|ReportField=Organization~|ReportField=ProjectName~MainBoard.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~MainBoard.PrjPcb|ReportField=DataSourceFullPath~D:\Projekty w realizacji\Home automation\ROUND_PANEL\HARDWARE\MAINBOARD\MainBoard.PrjPcb
+BAT|Li-Pol battery|BAT1|LI-ion battery 1100mAh|iPod_LiPol|1
+100nF|Capacitor|C1, C3, C5, C7, C8, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C28, C29, C30, C31, C33, C34, C35, C37, C39, C41, C43, C44, C46, C47, C49, C51, C53, C54, C59, C62, C71, C73|C0603L|CAP|43
+10uF|Capacitor|C2, C4, C6, C32, C36, C40, C50|C0805L|CAP|7
+300pF|Capacitor|C9, C10|C0603L|CAP|2
+33pF|Capacitor|C27|C0603L|CAP|1
+1uF|Capacitor|C38, C42, C52|C0603L|CAP|3
+10uF/6V|Polarized capacitor|C45|CAP_B|CAP_POL|1
+100uF/6V|Polarized capacitor|C48|CAP_B|CAP_POL|1
+8.2pF|Capacitor|C55, C56, C57, C58|C0603L|CAP|4
+22nF/50V-X7R|Capacitor|C60, C72|C0603L|CAP|2
+470nF/25V-X7R|Capacitor|C61, C70|C0603L|CAP|2
+22uF/25V|Capacitor|C63|C0805L|CAP|1
+18nF/50V-X7R|Capacitor|C64|C0603L|CAP|1
+10nF/50V-X7R|Capacitor|C65, C69|C0603L|CAP|2
+220nF/50V-X7R|Capacitor|C66|C0603L|CAP|1
+180pF/50V-COG|Capacitor|C67|C0603L|CAP|1
+2.2nF/50V-X7R|Capacitor|C68|C0603L|CAP|1
+JUMPER|Jumper|CON1, CON2, CON5|0603_3|JUMPER3|3
+NFC|Header, 2-Pin|CON3|HDR1X2_1mm27|Header 2|1
+SWD|Header, 3-Pin, Dual row|CON4, CON12|HDR2x3_1mm27|Header 3X2|2
+Battery|Header, 3-Pin|CON6|WN03R|Header 3|1
+Header 2X2|Header, 2-Pin, Dual row|CON7, CON8, CON9, CON10, CON11|HDR2X2|Header 2X2|5
+Header 2|Header, 2-Pin|CON13|HDR1X2|Header 2|1
+D|DIODE|D1|D0805|D|1
+EMI 300R/100MHz||L1|L0805|INDUCTOR|1
+BLM18PG471SN1||L2|L0805|INDUCTOR|1
+WS2812S||LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8|LED5050|WS2812S|8
+VIBRATION|Vibration motor|M1|Z4FC1B1301781|VIBRATION|1
+MOSFET N||Q1|SOT23|MOSFET N|1
+12k||R1|1608[0603]|RES|1
+4k7||R2, R3, R12|1608[0603]|RES|3
+330k||R4|1608[0603]|RES|1
+1k||R5|1608[0603]|RES|1
+10k||R6|1608[0603]|RES|1
+RES||R7, R15, R16, R17, R18, R19, R20|1608[0603]|RES|7
+100k||R8, R9, R21|1608[0603]|RES|3
+2k-1%||R10|1608[0603]|RES|1
+100R||R11|1608[0603]|RES|1
+33k||R13|1608[0603]|RES|1
+22k||R14|1608[0603]|RES|1
+30k9-1%||R22|1608[0603]|RES|1
+10k-1%||R23|1608[0603]|RES|1
+180-1%||R24|1608[0603]|RES|1
+220-1%||R25|1608[0603]|RES|1
+1k8-1%||R26|1608[0603]|RES|1
+LSM6DSM|iNEMO inertial module:  always-on 3D accelerometer and 3D gyroscope|U1|LGA-14L|LSM6DSM|1
+LIS2DH12|3-axis - ±2g/±4g/±8g/±16g digital output femto accelerometer|U2|LGA50P200X200X100-12N||1
+NINA-B1|NINA-B1|U3|NINA-B112|NINA-B1|1
+MAS6240|Carg pump piezzo driver|U4|QFN50P300X300X100-12L|MAS6240|1
+BUZZER||U5|PIEZO_15mm|BUZZER|1
+BH1750|Ambient Light Sensor IC|U6|SOT23-6|BH1750|1
+CP2105-F01-GM||U8|QFN24_4x4|CP2105-F01-GM|1
+MAX17048G+||U9|TDFN8_2x2x075|MAX17048G+|1
+XC6215B302MR||U10|SOT23-5|XC6215BxxxMR|1
+USB_MICRO|MICRO USB CONNECTOR|U11|USB_MICRO_B|USB_MICRO|1
+STC4054|Li-on 800mA linear battery charger|U12|SOT23-5|STC4054|1
+XC6210B332MR||U13|SOT23-5|XC6215BxxxMR|1
+ATSAMD21E18|Cortex M0+ microcontroller|U14|QFN32_M|ATSAMD21E18|1
+BQ51013BRHL||U15|R-PVQFN-N20|BQ51013BRHL|1
+ATECC508A|Atmel CryptoAuthentication Device|U16|UDFN|ATECC508A|1
+CRYSTAL3|TX3|X1|X3x2|CRYSTAL3|1
+32768Hz|Crystal|Y1|ECX31B|CRYSTAL|1
