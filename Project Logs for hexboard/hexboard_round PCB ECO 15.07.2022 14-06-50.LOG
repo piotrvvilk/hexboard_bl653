@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=VBAT Pin=R1-2
+Removed Member From Class: ClassName=Accessories Member=R12
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R5
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R6
+Change Component Designator: OldDesignator=R20 NewDesignator=R7
+Added Pin To Net: NetName=VSYS Pin=C14-1
+Added Pin To Net: NetName=VSYS Pin=C15-1
+Added Pin To Net: NetName=VSYS Pin=CON9-5
+Added Pin To Net: NetName=VBAT Pin=D1-2
+Added Pin To Net: NetName=VSYS Pin=L3-2
+Added Pin To Net: NetName=VSYS Pin=LED3-1
+Added Pin To Net: NetName=VSYS Pin=LED4-1
+Added Pin To Net: NetName=VSYS Pin=LED5-1
+Added Pin To Net: NetName=VSYS Pin=LED6-1
+Added Pin To Net: NetName=VSYS Pin=LED7-1
+Added Pin To Net: NetName=VSYS Pin=R14-1
+Added Pin To Net: NetName=VSYS Pin=U2-2
+Added Pin To Net: NetName=VBAT Pin=U3-2
+Added Pin To Net: NetName=VSYS Pin=U6-23
+Change Net Name : Old Net Name=NetQ5_3 New Net Name=NetQ2_3
+Change Net Name : Old Net Name=NetQ5_5 New Net Name=NetQ2_5
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR13_1

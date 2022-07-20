@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=SDA Pin=U1-18
+Removed Pin From Net: NetName=SCL Pin=U1-21
+Removed Member From Class: ClassName=Power_supply Member=R4
+Removed Member From Class: ClassName=Touch_panel Member=R6
+Removed Member From Class: ClassName=Accessories Member=R11
+Removed Member From Class: ClassName=Power_supply Member=R15
+Added Pin To Net: NetName=SDA Pin=U1-53
+Added Pin To Net: NetName=SCL Pin=U1-54
+Added Member To Class: ClassName=Accessories Member=Component R1 330k
+Added Member To Class: ClassName=Accessories Member=Component R3 1k
+Added Member To Class: ClassName=Accessories Member=Component R5 1k
+Added Member To Class: ClassName=Accessories Member=Component R7 1k
+Added Member To Class: ClassName=Power_supply Member=Component R8 330k
+Added Member To Class: ClassName=Power_supply Member=Component R9 33k
+Added Member To Class: ClassName=Power_supply Member=Component R10 10k
+Added Member To Class: ClassName=Power_supply Member=Component R12 47k
+Added Member To Class: ClassName=Power_supply Member=Component R13 10k
+Added Member To Class: ClassName=Touch_panel Member=Component R14 100k
+Added Member To Class: ClassName=Touch_panel Member=Component R16 1k
+Added Member To Class: ClassName=Touch_panel Member=Component R17 1k
+Added Member To Class: ClassName=Touch_panel Member=Component R18 1k
+Added Member To Class: ClassName=Touch_panel Member=Component R19 1k

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BAT_CHRG Pin=U1-28
+Removed Pin From Net: NetName=BAT_ERR Pin=U1-60
+Added Pin To Net: NetName=BAT_ERR Pin=U1-28
+Added Pin To Net: NetName=BAT_CHRG Pin=U1-30

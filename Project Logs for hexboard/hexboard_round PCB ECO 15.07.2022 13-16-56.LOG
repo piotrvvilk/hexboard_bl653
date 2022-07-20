@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=LED_R Pin=U1-30
+Removed Pin From Net: NetName=LED_G Pin=U1-32
+Removed Pin From Net: NetName=BUZ Pin=U1-61
+Removed Pin From Net: NetName=ACCEL_INT_1 Pin=U1-63
+Removed Pin From Net: NetName=LED_B Pin=U1-64
+Added Pin To Net: NetName=LED_G Pin=U1-35
+Added Pin To Net: NetName=LED_B Pin=U1-37
+Added Pin To Net: NetName=LED_R Pin=U1-39
+Added Pin To Net: NetName=ACCEL_INT_1 Pin=U1-49
+Added Pin To Net: NetName=BUZ Pin=U1-51
+Added Room: Name=Accessories
